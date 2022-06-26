@@ -1,0 +1,16 @@
+{
+  "name": "npm-sqlite",
+  "version": "0.0.4",
+  "description": "sqlite wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "garbagemza",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
