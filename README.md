@@ -1,3 +1,3 @@
-# npm-lib-template
+# npm-logger
 
-Base template for node libs
+Wrapper for winston logger.
